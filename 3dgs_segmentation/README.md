@@ -58,5 +58,5 @@ python click_and_segment.py
 
 Click left button to select positive visual prompts and middle button to select negative visual prompts. `ctrl+lbutton` and `ctrl+mbutton` to remove selected prompts.
 
-**Use segment_and_shift_mean to update gaussain means**
+**Use segment_and_shift_mean to update gaussian means**
 
