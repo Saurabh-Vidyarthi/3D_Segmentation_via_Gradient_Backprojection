@@ -1,0 +1,5 @@
+This folder contains:
+
+1. chkpts: trained 3dgs
+2. images : all images used while training
+3. sparse: folder output of trained 3dgs
